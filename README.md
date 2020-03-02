@@ -1,5 +1,5 @@
 # The-Guradian-keyword-analysis
-get information about articles (publishes by The Guardian) with a certain keword 
+get information about articles (published by The Guardian) with a certain keword 
 
 Important: 
 - you have to use an api key wich you can get here: https://open-platform.theguardian.com/access/
